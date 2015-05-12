@@ -1,6 +1,6 @@
 # Keboola Docker Demo
 
-This is a working example of a Docker wrapped application in KBC. Description of the functionality is in (Docker Demo App)[https://github.com/keboola/docker-demo-app].
+This is a working example of a Docker wrapped application in KBC. Description of the functionality is in [Docker Demo App](https://github.com/keboola/docker-demo-app).
 
 ## Install & build
 
@@ -23,5 +23,5 @@ keboola/docker-demo:latest
 
 Note: `--volume` needs to be adjusted accordingly and has to lead to a `data` directory. For the documentation what this folder has to comply with see 
  
-  - (https://github.com/keboola/docker-demo-app)[https://github.com/keboola/docker-demo-app]
-  - (https://github.com/keboola/docker-demo-app)[https://github.com/keboola/docker-demo-app]
+  - [https://github.com/keboola/docker-demo-app](https://github.com/keboola/docker-demo-app)
+  - [https://github.com/keboola/docker-bundle/blob/master/ENVIRONMENT.md#data-folder](https://github.com/keboola/docker-bundle/blob/master/ENVIRONMENT.md#data-folder)
