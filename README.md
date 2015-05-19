@@ -1,4 +1,4 @@
-# Keboola Docker Demo
+# Keboola Docker Demo (Private Dockerhub Repository)
 
 This is a working example of a Docker wrapped application in KBC. Description of the functionality and the application itself is in [Docker Demo App](https://github.com/keboola/docker-demo-app), this is only a Docker wrapper for the app.
 
